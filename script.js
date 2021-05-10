@@ -9,6 +9,6 @@ function comparison () {
   if (entnum < 0) {
     document.getElementById('answer').innerHTML = 'Negative'
   } else {
-    document.getElementById('answer').innerHTML = 'Positive'
+    document.getElementById('answer').innerHTML = Positive'
   }
 }
