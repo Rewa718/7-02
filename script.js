@@ -13,4 +13,3 @@ function comparison () {
   } if (userInput > 0) {
     document.getElementById('answer').innerHTMl = "Positive"
   }
- 
